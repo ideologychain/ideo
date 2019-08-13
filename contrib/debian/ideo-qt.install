@@ -1,0 +1,6 @@
+usr/local/bin/ideo-qt usr/bin
+share/pixmaps/ideo32.xpm usr/share/pixmaps
+share/pixmaps/ideo16.xpm usr/share/pixmaps
+share/pixmaps/ideo128.png usr/share/pixmaps
+debian/ideo-qt.desktop usr/share/applications
+debian/ideo-qt.protocol usr/share/kde4/services/

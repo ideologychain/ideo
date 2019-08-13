@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Bitcoin Core
+Comment=Connect to the Ideology P2P Network
+Exec=ideo-qt %u
+Terminal=false
+Type=Application
+Icon=ideo128
+MimeType=x-scheme-handler/ideo;
+Categories=Office;Finance;
+StartupWMClass=Ideology-qt
+Name[en_US]=ideo-qt
